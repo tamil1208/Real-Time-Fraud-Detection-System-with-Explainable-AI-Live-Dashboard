@@ -173,7 +173,7 @@ Features:
 
 # 📁 Project Folder Structure
 
-```text
+
 FraudDetection_Project/
 │
 ├── 📓 analysis.ipynb
@@ -218,7 +218,8 @@ The Fraud Detection Dashboard was deployed using **Streamlit Community Cloud** f
 
 # 🔗 Live Dashboard URL
 
-👉 https://real-time-fraud-detection-system-with-explainabl--tamilarsan538.replit.app/SHAP_Explainer
+👉
+https://real-time-fraud-detection-system-with-explainabl--tamilarsan538.replit.app/SHAP_Explainer
 
 ---
 
