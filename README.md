@@ -266,4 +266,4 @@ Features:
 Features:
 - SHAP waterfall visualization
 - Plain-English fraud explanation
-- Transaction-level interpretability
+- Transaction-level interpretability.
